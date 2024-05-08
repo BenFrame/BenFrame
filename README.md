@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben Frame</h1>
-<h3 align="center">A student currently with Bloomtech</h3>
+<h3 align="center">I am a Full-Stack Software Engineer who enjoys creating web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benframe&label=Profile%20views&color=0e75b6&style=flat" alt="benframe" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bloom Institute of Technology courses](bloomtech.com)
 
-- 💪 Skills **HTML, Javascript , CSS , React**
+- 💪 Skills: **HTML, Javascript , CSS , React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
