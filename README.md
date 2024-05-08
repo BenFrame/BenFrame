@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bloom Institute of Technology courses](bloomtech.com)
 
-- 🌱 I’m currently learning **Javascript, CSS , React**
+- 💪 Skills **HTML, Javascript , CSS , React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
