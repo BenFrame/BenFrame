@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benframe" alt="benframe" /></a> </p>
 
-- 🔭 I’m currently working on [Bloom Institute of Technology courses](bloomtech.com)
+- 🔭 Graduate of [Bloom Institute of Technology](bloomtech.com)
 
 - 💪 Skills: **HTML, Javascript , CSS , React**
 
